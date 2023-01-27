@@ -1,5 +1,4 @@
-# premraj
- https://premraj17147.github.io/premraj/
+
 
 from flask import Flask, render_template, request
 from flask_sqlalchemy import SQLAlchemy
